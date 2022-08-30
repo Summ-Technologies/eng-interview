@@ -38,10 +38,10 @@ DELETE /todos/:id
 
 The `Todo` model that will be used throughout the entirety of this exercise has the following properties:
 
-id: number
-title: string (required)
-description: string
-created_at: number
+id: number  
+title: string (required)  
+description: string  
+created_at: number  
 completed: boolean
 
 ## Current functionality
