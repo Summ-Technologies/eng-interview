@@ -27,11 +27,11 @@ Don't worry too much about implementing any functionality. We'll be focused prim
 
 The backend currently implements the following endpoints:
 
-POST /todos
+POST /todos  
 GET /todos
 
-GET /todos/:id
-PATCH /todos/:id
+GET /todos/:id  
+PATCH /todos/:id  
 DELETE /todos/:id
 
 ## Model definitions
